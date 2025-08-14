@@ -1,5 +1,4 @@
-# Python Tutorial & Testing Tools – Notes and Experiments
-
+# Python Tutorial & Testing Tools – Notes
 > This repository contains my personal study of the official Python tutorial, along with hands-on exploration of testing tools such as `doctest` and `pytest`. It includes structured notes, code experiments, and testing practices.
 
 ## Contents
