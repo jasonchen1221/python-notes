@@ -1,5 +1,5 @@
 # Python Tutorial & Testing Tools – Notes
-> This repository contains my personal study of the official Python tutorial, along with hands-on exploration of testing tools such as `doctest` and `pytest`. It includes structured notes, code experiments, and testing practices.
+> This repository contains my personal study of the official Python tutorial, along with hands-on exploration of testing tools such as `doctest` and `pytest`. It includes simple notes, code experiments, and testing practices.
 
 ## Contents
 - The directory structure and filenames follow the chapter organization of [The Python Tutorial](https://docs.python.org/3/tutorial/)
